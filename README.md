@@ -43,4 +43,6 @@ A production-grade full-stack simulation platform for managing and comparing clo
 The database schema is defined in `supabase/schema.sql`. It includes tables for `users`, `providers`, `resources`, `logs`, and `cost_metrics`.
 
 ## Author
-Developed as a production-ready simulation prototype.
+Developed as a production-ready simulation prototype
+For looking into the project visit to this link 
+: https://multi-cloud-simulation-dashboard.vercel.app/
